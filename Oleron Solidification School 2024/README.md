@@ -5,4 +5,4 @@
 3. Regression [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpalastus/Notebooks/blob/main/Oleron%20Solidification%20School%202024/03_Regression.ipynb) 
 
 
-We also included a practical exemple, that uses the knoledge of the notebooks above on real data from Molecular Dynamics simulation. Check it here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpalastus/Notebooks/blob/main/Oleron%20Solidification%20School%202024/Applications_in_Atomistic_Simulation.ipynb) 
+We also included a practical example that uses the knoledge of the notebooks above on real data from Molecular Dynamics simulation. Check it here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpalastus/Notebooks/blob/main/Oleron%20Solidification%20School%202024/Applications_in_Atomistic_Simulation.ipynb) 
