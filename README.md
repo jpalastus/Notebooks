@@ -4,4 +4,5 @@ Series of notebooks and data to be used in practical sessions and in trainings t
 
  - **Roscoff GDR-IAMAT School 2023** - Presentation and practice on the development of Machine Learning Functionals for DFT. We used PySCF and TensorFlow for that.
  - **Oleron Solidification School 2024** - Practices in Clustering, Classification and Regression including exemples some simulation data on metals and silicon. 
- - **Paris Diamond Summer School 2025** - Introductions to machine learning, MD and DFT using Python.  
+ - **Paris Diamond Summer School 2025** - Introductions to machine learning, MD and DFT using Python.
+ - **Grenoble Phelma 2026** - Lectures and TP for M2 Phelma Students in the year 2026/2027.
